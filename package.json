@@ -1,0 +1,13 @@
+{
+  "name": "aws-devops-dummy-app",
+  "version": "1.0.0",
+  "description": "Small Node app for AWS DevOps practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"no tests\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
